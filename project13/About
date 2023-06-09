@@ -1,0 +1,4 @@
+This program parses each digit of a given number and calculates
+the values of the ones, tens, hundreds, thousands, and
+ten-thousands places by using modulo and integer division operations,
+and then adds them up and prints the result to the console.
