@@ -1,0 +1,12 @@
+The code aims to receive user input and process it accordingly.
+It prompts the user to enter a response (either 'a', 'b', or 'c') and based on the input, performs specific actions.
+
+If the user enters 'a', it displays the message "Your request is being processed."
+If the user enters 'b', it displays the message "Thank you for your interest anyway."
+If the user enters 'c', it displays the message "Sorry, there is currently no assistance available."
+For any other input, it displays the message "Invalid input, please try again!"
+
+The code utilizes the Scanner class to capture user input from the console
+and it closes the Scanner object at the end to release associated resources.
+
+Please note that the code assumes the user will provide valid input in the expected format.
