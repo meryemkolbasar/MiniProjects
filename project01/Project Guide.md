@@ -40,6 +40,10 @@ int remainingMinutes = minutes % 525600;`
 
 12 - Test your program by entering different values for the number of minutes and verify that the calculated years and days are displayed correctly.
 
+### Language I use:
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
 ***
 
 **That's it! You have successfully created a Java program that calculates the approximate number of years and days from a given number of minutes. Feel free to customize and enhance the code according to your requirements.**
