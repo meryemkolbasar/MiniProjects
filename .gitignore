@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+src/
+.idea/
+Mini Projects.iml/
+.gitignore/
