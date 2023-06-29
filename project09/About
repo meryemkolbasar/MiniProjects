@@ -1,0 +1,4 @@
+This program takes input from the user for their
+name, surname, age, height, and weight using the Scanner class in Java.
+It then prints out the user's information with the labels
+"Name", "Surname", "Age", "Height", and "Weight" along with the values entered by the user.

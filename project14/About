@@ -1,0 +1,6 @@
+The AdditionProgram is a Java program that performs addition between two numbers.
+It prompts the user to enter two numbers and calculates their sum.
+The program then checks if the sum is greater than or equal to 0. If it is, it displays the sum of the entered values.
+However, if the sum exceeds the value of 999999999, it displays an "Overflow" message.
+This program allows users to quickly add two numbers and
+provides overflow protection by ensuring the sum is within a specific range.

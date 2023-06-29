@@ -1,0 +1,6 @@
+The OverflowControlledAdditionProgram is a Java program that allows the user to input
+two numbers and calculates their sum.
+It includes an overflow control mechanism to prevent unexpected behavior.
+If the sum of the two numbers is within the range of 0 or greater and less than 999999999, it displays the sum.
+However, if the sum exceeds this limit, it shows an "Overflow" message.
+This program ensures that the addition operation is performed safely within the specified range.
