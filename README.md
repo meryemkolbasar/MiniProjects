@@ -16,6 +16,10 @@ _If you have any ideas for improvements or would like to contribute to a project
 
  _Let's collaborate and make these mini-projects even better together._
 
+## Language 
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
 ## License
 
 _This repository is licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, or distribute it as per the terms of the license._
