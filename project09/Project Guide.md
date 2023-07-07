@@ -55,6 +55,10 @@ public class P01Scanner {
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 ***
+_That's it! You have successfully created a Java program that prompts the user for their personal information and displays it back to them. 
+This program demonstrates the usage of the `Scanner` class to capture user input. 
+Feel free to customize and enhance the code according to your requirements. 
+Happy coding!_
 
 <img align="center" alt="Coding" width="1000" src="https://cdn.kibrispdr.org/data/1796/the-end-gif-7.gif">
 
