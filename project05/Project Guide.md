@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://meryemkolbasar.io)
 
-1 - Create a new Java project and create a class called "DigitSumCalculator".
+**1 - Create a new Java project and create a class called "DigitSumCalculator".**
 
 `package github_projects.project05;
 import java.util.Scanner;
@@ -10,43 +10,43 @@ public class DigitSumCalculator {
     }
 } `
 
-2 - Import the "java.util.Scanner" package to be able to use the Scanner class.
+**2 - Import the "java.util.Scanner" package to be able to use the Scanner class.**
 
 `import java.util.Scanner;`
 
-3 - Create a Scanner object to obtain input from the user.
+**3 - Create a Scanner object to obtain input from the user.**
 
 `Scanner scan = new Scanner(System.in);`
 
-4 - Ask the user to enter a three-digit number.
+**4 - Ask the user to enter a three-digit number.**
 
 `System.out.println("Please enter a three-digit number: ");
 int number = scan.nextInt();`
 
-5 - Print a message to confirm the number whose digits the user wants to add up.
+**5 - Print a message to confirm the number whose digits the user wants to add up.**
 
 `System.out.println("The number whose digits you want to add up is: " + number);`
 
-6 - Extract the individual digits of the number by performing modulo and division operations.
+**6 - Extract the individual digits of the number by performing modulo and division operations.**
 
 `int num1 = number % 10;
 int num2 = (number / 10) % 10;
 int num3 = (number / 100);`
 
-7 - Calculate the sum of the digits.
+**7 - Calculate the sum of the digits.**
 
 `int digitSum = num1 + num2 + num3;`
 
-8 - Ask the user to enter the sum of the digits.
+**8 - Ask the user to enter the sum of the digits.**
 
 `System.out.println("Please enter the sum of the digits: ");
 int userResult = scan.nextInt();`
 
-9 - Compare the user's input with the calculated sum and determine if it is correct.
+**9 - Compare the user's input with the calculated sum and determine if it is correct.**
 
 `boolean isCorrect = (digitSum == userResult);`
 
-10 - Print the appropriate message based on whether the user's input is correct or not.
+**10 - Print the appropriate message based on whether the user's input is correct or not.**
 
 `if (isCorrect) {
     System.out.println("Congratulations! Your answer is correct :)");
