@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/08/presentation-slides-header-wide.gif)](https://meryemkolbasar.io)
 
-1 - Create a new Java project and create a class called "Rectangle".
+**1 - Create a new Java project and create a class called "Rectangle".**
 
 `package github_projects.project06;
 import java.util.Scanner;
@@ -10,25 +10,25 @@ public class Rectangle {
     }
 }`
 
-2 - Import the "java.util.Scanner" package to be able to use the Scanner class.
+**2 - Import the "java.util.Scanner" package to be able to use the Scanner class.**
 
 `import java.util.Scanner;`
 
-3 -  Create a Scanner object to obtain input from the user.
+**3 -  Create a Scanner object to obtain input from the user.**
 
 `Scanner scan = new Scanner(System.in);`
 
-4 - Ask the user to enter the length of side "a" of the rectangle and store the value.
+**4 - Ask the user to enter the length of side "a" of the rectangle and store the value.**
 
 `System.out.println("Enter the length of side 'a' of the rectangle: ");
 int a = scan.nextInt();`
 
-5 -  Ask the user to enter the length of side "b" of the rectangle and store the value.
+**5 -  Ask the user to enter the length of side "b" of the rectangle and store the value.**
 
 `System.out.println("Enter the length of side 'b' of the rectangle: ");
 int b = scan.nextInt();`
 
-6 - Calculate the perimeter of the rectangle and print the result.
+**6 - Calculate the perimeter of the rectangle and print the result.**
 
 `int perimeter = (a + b) * 2;
 System.out.println("The perimeter of the rectangle is: " + perimeter);`
