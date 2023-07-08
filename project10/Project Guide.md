@@ -51,8 +51,8 @@ Finally, it concatenates these letters and prints the result._
 
 ***
 
-_Congratulations! You have successfully completed the P02Scanner project.
+**Congratulations! You have successfully completed the P02Scanner project.
 You can use this program to extract and display the first letters of your first and last names. 
-Thank you for your effort during the project completion process. We wish you continued success!_
+Thank you for your effort during the project completion process. We wish you continued success!**
 
 <img align="center" alt="Coding" width="1000" src="https://cdn.kibrispdr.org/data/1796/the-end-gif-7.gif">
