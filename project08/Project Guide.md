@@ -1,18 +1,18 @@
 <img align="center" alt="Coding" width="999" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 
-1 - Creating a New Java Project
+**1 - Creating a New Java Project**
 
-* Open your Java IDE (Eclipse, IntelliJ IDEA, NetBeans, etc.).
-* Create a new Java project.
+* _Open your Java IDE (Eclipse, IntelliJ IDEA, NetBeans, etc.)._
+* _Create a new Java project._
 
-2 - Creating the Package and Class
+**2 - Creating the Package and Class**
 
-* Within the project, create a package named "github_projects.project08".
-* Inside the package, create a Java class named "P02Ascii".
+* _Within the project, create a package named "github_projects.project08"._
+* _Inside the package, create a Java class named "P02Ascii"._
 
-3 - Writing the Code
+**3 - Writing the Code**
 
-* Open the "P02Ascii.java" file and write the following code:
+* _Open the "P02Ascii.java" file and write the following code:_
 
   `package github_projects.project08;
     public class P02Ascii {
