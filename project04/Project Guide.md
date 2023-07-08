@@ -1,16 +1,16 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif)](https://meryemkolbasar.io)
 
-1 - Create a new Java project and create a class called "BmiCalculation".
+**1 - Create a new Java project and create a class called "BmiCalculation".**
 
-2 - Import the "java.util.Scanner" package to be able to use the Scanner class.
+**2 - Import the "java.util.Scanner" package to be able to use the Scanner class.**
 
-3 - Define the main function with the following signature: "public static void main(String[] args)".
+**3 - Define the main function with the following signature: "public static void main(String[] args)".**
 
-4 - Create a Scanner object and use it to obtain input from the user:
+**4 - Create a Scanner object and use it to obtain input from the user:**
 
 `Scanner scan = new Scanner(System.in);`
 
-5 - Ask the user to enter their current weight and height:
+**5 - Ask the user to enter their current weight and height:**
 
 `System.out.print("Please enter your current weight: ");
 double weight = scan.nextDouble();`
@@ -18,11 +18,11 @@ double weight = scan.nextDouble();`
 `System.out.print("Please enter your current height (in cm): ");
 double height = scan.nextDouble() / 100;`
 
-6 - Use the weight and height values to calculate the BMI using the formula:
+**6 - Use the weight and height values to calculate the BMI using the formula:**
 
 `double bmi = weight / (height * height);`
 
-7 - Print the appropriate message based on the BMI value using a series of conditional statements:
+**7 - Print the appropriate message based on the BMI value using a series of conditional statements:**
 
 `if (bmi < 18.5) {
     System.out.println("\nWeight: " + weight + "\nHeight: " + height + "\nBMI: " + bmi + "\n- You are underweight.");
@@ -34,7 +34,7 @@ double height = scan.nextDouble() / 100;`
     System.out.println("\nWeight: " + weight + "\nHeight: " + height + "\nBMI: " + bmi + "\n- You are obese.");
 }`
 
-8 - Compile and run the project. The user will be prompted to enter their weight and height, and then a message displaying the BMI value and the corresponding condition will be printed on the screen.
+**8 - Compile and run the project. The user will be prompted to enter their weight and height, and then a message displaying the BMI value and the corresponding condition will be printed on the screen.**
 
 ### Language I use:
 
