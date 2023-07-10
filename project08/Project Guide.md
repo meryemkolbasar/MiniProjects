@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="999" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+<img align="center" alt="Coding" width="999" src="https://krishastudio.com//wp-content/uploads/2021/06/5.gif">
 
 **1 - Creating a New Java Project**
 
