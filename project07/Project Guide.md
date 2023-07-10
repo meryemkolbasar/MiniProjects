@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+[![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)](https://meryemkolbasar.io)
 
 **1 - Creating the Project and Package**
 
