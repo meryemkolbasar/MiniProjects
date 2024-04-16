@@ -8,7 +8,7 @@ public class Rectangle {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Enter side a of the rectangle");
+        System.out.println("Enter the length of side 'a' of the rectangle:");
         int a = scan.nextInt();
 
         System.out.println("Enter side b of the rectangle");
