@@ -11,7 +11,7 @@ public class Rectangle {
         System.out.println("Enter the length of side 'a' of the rectangle:");
         int a = scan.nextInt();
 
-        System.out.println("Enter side b of the rectangle");
+        System.out.println("Enter the length of side 'a' of the rectangle:");
         int b = scan.nextInt();
 
         System.out.println("Perimeter of the rectangle:"+ ((a+b)*2));
