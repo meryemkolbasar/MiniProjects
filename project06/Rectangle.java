@@ -8,13 +8,13 @@ public class Rectangle {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Dikdortgenin a kenarini giriniz");
+        System.out.println("Enter side a of the rectangle");
         int a = scan.nextInt();
 
-        System.out.println("Dikdortgenin b kenarini giriniz");
+        System.out.println("Enter side b of the rectangle");
         int b = scan.nextInt();
 
-        System.out.println("Dikdortgenin cevresi:"+ ((a+b)*2));
+        System.out.println("Perimeter of the rectangle:"+ ((a+b)*2));
 
     }
 }
